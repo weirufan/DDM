@@ -1,4 +1,4 @@
-These codes are available when the corresponding paper is published.
+These main codes are available. A more clear verison will be provide when the corresponding paper is published.
 
 These codes are built in the following environment：
 
